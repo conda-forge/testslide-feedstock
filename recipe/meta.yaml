@@ -1,5 +1,5 @@
 {% set name = "testslide" %}
-{% set version = "2.7.0" %}
+{% set version = "2.7.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/TestSlide-{{ version }}.tar.gz
-  sha256: 23ece0b9f5b704b33b978e9c8797936034516adc3c4743ebdaed664aa700c3cb
+  sha256: d25890d5c383f673fac44a5f9e2561b7118d04f29f2c2b3d4f549e6db94cb34d
 
 build:
   noarch: python
