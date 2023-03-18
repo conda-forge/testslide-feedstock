@@ -1,11 +1,11 @@
-About testslide
-===============
+About testslide-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/testslide-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/facebook/TestSlide
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/testslide-feedstock/blob/main/LICENSE.txt)
 
 Summary: A test framework for Python that makes mocking and iterating over code with tests a breeze
 
