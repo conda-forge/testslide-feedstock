@@ -25,7 +25,7 @@ requirements:
     - psutil >=5.6.7
     - pygments >=2.2.0
     - python >={{ python_min }}
-    - typeguard >=2.10.0
+    - typeguard <3.0
 
 test:
   imports:
